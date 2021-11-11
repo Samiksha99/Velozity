@@ -14,4 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![Add Place](https://github.com/Samiksha99/ParkPlace/blob/main/Images/login.jpeg)|![Google Maps Page](https://github.com/Samiksha99/ParkPlace/blob/main/Images/bookingSlots.jpeg)|![Login Page](https://github.com/Samiksha99/ParkPlace/blob/main/Images/registerPlace.jpeg)|![Booking Page](
+
+
+IMAGE 1             |  IMAGE 2             |  IMAGE 2
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/Samiksha99/Velozity/blob/main/Images/Screenshot_20211111-101853.jpg)  |  ![](https://github.com/Samiksha99/Velozity/blob/main/Images/Screenshot_20211111-101902.jpg)  |  ![](https://github.com/Samiksha99/Velozity/blob/main/Images/Screenshot_20211111-101913.jpg)
